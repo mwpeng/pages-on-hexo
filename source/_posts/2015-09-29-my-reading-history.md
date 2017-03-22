@@ -2,7 +2,8 @@
 layout: post
 title:  "My reading history"
 date:   2015-09-29 08:08:08
-categories: reading
+categories: 
+- reading
 ---
 
 1.  Sept/2015 [AngularJS](http://isbn.directory/book/9781449344856 "AngularJS")

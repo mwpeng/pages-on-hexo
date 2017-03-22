@@ -2,7 +2,12 @@
 layout: post
 title:  "Learning Laravel: The Easiest Way"
 date:   2015-02-19 21:08:13
-categories: reading php laravel
+categories: 
+- reading
+tags:
+- php 
+- laravel
+
 ---
 Book, [`Learning Laravel: The Easiest Way`][laravel-book], provides a tutorial to build a web application
 base on Framework [Laravel][]. The example is useful for reader to
