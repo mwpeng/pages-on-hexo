@@ -4,4 +4,4 @@ install:
   - npm install
 
 script:
-  - echo "hello world"
+  - hexo clean
