@@ -1,3 +1,6 @@
+env:
+  global:
+    - secure: ot6TixGXdUDTHJEQa2HX77vYeTBigdWfFZDlSnW0gtQrSKtWGxEazznL6uokDZj5C/fUYtw4bVBqWf00sT1CcpS5eb1nxfgsSiR6XY/Zj9ygHsJ7Wg9RV5As/Dtn9DYJqqYlHjmYLIik3FqvenSRdp9eJedMLaQFOclYz0gcjNV3NaW65b1CLdIV5AA6YRC7+MaryrEyuJMsh0bp7MP2MJAp3PpmFu4IYp+Op5x1oentpKPleda4xkDzfdTQDZPMzg4P5TsXnKXzZteCMr3zc4WjYMv4pKdGOmay06toIA9G3ZFx5b8gAGHPVAymFKMklz9Kmp4QwcFeJZOy2uA1K9dKgqeyWBkghjAPgsuW7DZ3KNL0IwMveBY/XPf/Oc3sqPovsqYoddaAcOWbv3ggIZgAsCo7fSn0JU1SpXyjm8/r8z1WK/IK0eRZfVW6Yrh8zzeQTGoc/kzjC8TaxHCV5v6gPACW8oszLU9I6UeUSZYGKz96JvVVi3kXquI0woo2/umxDi79uvxM4+d5/jqZko8OALijbfxlr9vPX7S9SmjeKRaW2PEbGv++XezWPE1w3Dj/bKP3RvQ+eesbNSmGxWv8fnLAZ896zQ431bjMdJJ/JRdLiUboE53FiC0IJPqhnLKHMWVwWmNgxAjFaxxJopKHnCDBNIab+k5Zdc5NwaE=
 language: node_js
 
 install:
@@ -6,3 +9,11 @@ install:
 script:
   - hexo clean
   - hexo generate
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  keep_history: true
+  on:
+    branch: master
