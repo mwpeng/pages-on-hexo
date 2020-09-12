@@ -5,5 +5,5 @@ tags:
 date: 2020-08-08 10:26:35
 ---
 
-
-Do Ray Me
+#Forward
+[Understanding of musice Seminars](https://understandingofmusic.com)
