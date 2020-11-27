@@ -19,3 +19,9 @@ date: 2020-08-08 10:26:35
 * `Find middle C` because there were no black keys on keyboard
 * `treble clef` is actually letter g
 * `base clef` is actually letter f
+
+### Learning the notes
+* Local `D` note , that's less confusing comparing to `C`
+
+### Oh no! not the black keys!
+* Chromatic spacing: means the space between each not is `exactly the same` 
