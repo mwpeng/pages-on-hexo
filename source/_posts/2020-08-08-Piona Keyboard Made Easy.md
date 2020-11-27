@@ -25,3 +25,5 @@ date: 2020-08-08 10:26:35
 
 ### Oh no! not the black keys!
 * Chromatic spacing: means the space between each not is `exactly the same` 
+* Sharp means higher, and flat means lower.
+* All the black keys actually have two names: one with sharp, one with flat.
