@@ -33,3 +33,10 @@ date: 2020-08-08 10:26:35
 ### How to practise
 * If any mistake, practise at a lower speed (for example, half speed)
 * At least five minutes per day.
+
+### Scales made easy.
+* Scale : series of steps
+* Key notes in a scale
+    * ROOT: 1st note 
+    * Subdominant: 4th note 
+    * Dominant: 5th note 
