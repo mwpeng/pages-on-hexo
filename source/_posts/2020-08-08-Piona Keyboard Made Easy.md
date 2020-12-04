@@ -61,3 +61,11 @@ date: 2020-08-08 10:26:35
 * Each Major Chord has a related minor chord. 
     * To find the related Minor Chord of Major Chord: count down three 
     * For example: C Major Chord - A Minor Chord
+* different ways of playing chord
+    * together
+    * one note at a time
+    * tow notes then the other one.
+* practise
+    * move up and down to find all chords
+    * major then minor
+    * play with both hands (base key note)
