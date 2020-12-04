@@ -43,3 +43,7 @@ date: 2020-08-08 10:26:35
 * The space between the notes is known as an interval and is called a `semi-tone` or a `half-step`
 * The Major scale pattern: `2,2,1,2,2,2,1`
 * The Minor scale pattern: `2,1,2,2,1,2,2`
+* The Blue scale pattern: `3,2,1,1,3,2`
+* Each Major scale has a related minor scale. (Use the same notes but start with different)
+    * For example: C Major - A Minor
+    * To find the related Minor of Major: count down three notes.
