@@ -47,3 +47,5 @@ date: 2020-08-08 10:26:35
 * Each Major scale has a related minor scale. (Use the same notes but start with different)
     * For example: C Major - A Minor
     * To find the related Minor of Major: count down three notes.
+    
+### Chords made easy.
