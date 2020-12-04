@@ -41,6 +41,7 @@ date: 2020-08-08 10:26:35
     * Subdominant: 4th note 
     * Dominant: 5th note 
 * The space between the notes is known as an interval and is called a `semi-tone` or a `half-step`
+* Pattern start with `0`
 * The Major scale pattern: `2,2,1,2,2,2,1`
 * The Minor scale pattern: `2,1,2,2,1,2,2`
 * The Blue scale pattern: `3,2,1,1,3,2`
@@ -49,3 +50,9 @@ date: 2020-08-08 10:26:35
     * To find the related Minor of Major: count down three notes.
     
 ### Chords made easy.
+* Pattern start with `0`
+* pattern numbers are the spaces or intervals between the notes
+* Major chords pattern: `4,3` 
+* Most commonly played chords are C,F and G.
+* Play base note using left hand.
+* Play whole chard with one hand and the notes of the chord with the other hand. 
