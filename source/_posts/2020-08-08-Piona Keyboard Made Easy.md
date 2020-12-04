@@ -56,3 +56,8 @@ date: 2020-08-08 10:26:35
 * Most commonly played chords are C,F and G.
 * Play base note using left hand.
 * Play whole chard with one hand and the notes of the chord with the other hand. 
+* Minor chords pattern: `3,4` 
+* Only the middle note is different between Major and Minor chord. Move middle finger back one key.
+* Each Major Chord has a related minor chord. 
+    * To find the related Minor Chord of Major Chord: count down three 
+    * For example: C Major Chord - A Minor Chord
