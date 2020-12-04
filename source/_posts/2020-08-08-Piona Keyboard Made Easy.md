@@ -41,3 +41,5 @@ date: 2020-08-08 10:26:35
     * Subdominant: 4th note 
     * Dominant: 5th note 
 * The space between the notes is known as an interval and is called a `semi-tone` or a `half-step`
+* The Major scale pattern: `2,2,1,2,2,2,1`
+* The Minor scale pattern: `2,1,2,2,1,2,2`
