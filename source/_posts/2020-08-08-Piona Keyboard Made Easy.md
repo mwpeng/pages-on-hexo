@@ -40,3 +40,4 @@ date: 2020-08-08 10:26:35
     * ROOT: 1st note 
     * Subdominant: 4th note 
     * Dominant: 5th note 
+* The space between the notes is known as an interval and is called a `semi-tone` or a `half-step`
